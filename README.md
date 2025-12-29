@@ -277,8 +277,8 @@
 </div>
 
 ```bash
-git clone https://github.com/hexbido/Number-Guessing-Game.git
-cd Number-Guessing-Game
+git clone https://github.com/hexbido/Guessing-Number-Game.git
+cd Guessing-Number-Game
 ```
 
 <br>
